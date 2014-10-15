@@ -1,11 +1,11 @@
 {
   "name": "seco",
   "main": "lib/seco.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/sonario/seco",
   "authors": [
     "Dima Kurguzov <koorgoo@gmail.com>"
   ],
-  "description": "Seconds converter",
+  "description": "Seconds converter & formatter",
   "license": "MIT"
 }
