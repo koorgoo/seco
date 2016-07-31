@@ -1,18 +1,18 @@
 {
   "name": "seco",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Seconds converter & formatter",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sonario/seco.git"
+    "url": "https://github.com/koorgoo/seco.git"
   },
   "author": "Dima Kurguzov <koorgoo@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sonario/seco/issues"
+    "url": "https://github.com/koorgoo/seco/issues"
   },
-  "homepage": "https://github.com/sonario/seco",
+  "homepage": "https://github.com/koorgoo/seco",
   "devDependencies": {
     "jshint": "^2.5.6",
     "lodash": "^2.4.1",

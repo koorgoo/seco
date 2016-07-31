@@ -1,8 +1,8 @@
 {
   "name": "seco",
   "main": "lib/seco.js",
-  "version": "0.1.1",
-  "homepage": "https://github.com/sonario/seco",
+  "version": "0.1.2",
+  "homepage": "https://github.com/koorgoo/seco",
   "authors": [
     "Dima Kurguzov <koorgoo@gmail.com>"
   ],

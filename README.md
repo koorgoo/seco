@@ -7,8 +7,8 @@ Seconds converter & formatter
 ### Install
 
 ```shell
-bower install seco
-npm install seco
+bower install koorgoo/seco
+npm install koorgoo/seco
 ```
 
 
